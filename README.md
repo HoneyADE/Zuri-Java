@@ -1,3 +1,3 @@
 # Zuri-Java
 
-Link to published site: https://...
+Link to published site: https://honeyade.github.io/Zuri-Java/
